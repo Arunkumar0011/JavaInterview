@@ -1,0 +1,27 @@
+package com.arun.array;
+
+public class CheckContainsValueAtleastTwoArrays {
+	
+	public static void main(String[] args) {
+		
+		//We have 3 Arrays - we are going to identifie the value contains minimum two arrays that value only we are going to print
+		
+	    //Approach Plan
+		//1. Add all array in single list
+		//2. Then Array list setting the Hashset so we are getting unique
+		//3. Then iterate and will check
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

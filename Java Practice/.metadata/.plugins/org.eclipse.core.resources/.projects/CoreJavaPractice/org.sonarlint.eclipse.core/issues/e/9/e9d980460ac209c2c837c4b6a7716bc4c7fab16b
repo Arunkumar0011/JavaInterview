@@ -1,0 +1,43 @@
+
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(çÁ×ú8ŠÖéÕ1Hå/RMAJORZ
+CODE_SMELL
+p	java:S106C"9Replace this use of System.out or System.err by a logger.(‚¤ñ¾üÿÿÿÿ8¦™¢Ö1Hæ/RMAJORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8¦™¢Ö1Há/RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•¤º8‡ÒĞÕ1Hã/RMINORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(Œ±‡ÿÿÿÿÿ8ÍÀğÕ1Hê/RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(ªøä¯ûÿÿÿÿ8ŠÈáÕ1Hë/RMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(öŞ¥Ï8¦™¢Ö1Hñ/RMAJORZ
+CODE_SMELL
+g
+java:S3740?"/Provide the parametrized type for this generic.(³“Ïâøÿÿÿÿ8¦™¢Ö1Hò/RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(¶Ö¨‘8Í‡öÕ1Hì/RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(˜åÂ˜8ŠÈáÕ1Hà/RMAJORZ
+CODE_SMELL
+b
+java:S3740="/Provide the parametrized type for this generic.(ÿµä¾8¦™¢Ö1Hß/RMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(Ì¦÷Éùÿÿÿÿ8ÉßƒÖ1Hğ/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‹¤·Ñ8†öçÕ1Hï/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(å‚É¶úÿÿÿÿ8ŠÈáÕ1Hé/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ÍÀğÕ1Hè/RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ª‚ÁÜúÿÿÿÿ8‡ÒĞÕ1Hî/RMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(‰àÆ8‚‡ÚÕ1Hí/RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(¢äÂİøÿÿÿÿ8†ğóÕ1Hç/RMAJORZ
+CODE_SMELL

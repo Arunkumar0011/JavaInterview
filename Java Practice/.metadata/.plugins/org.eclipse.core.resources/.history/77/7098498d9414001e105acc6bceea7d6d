@@ -1,0 +1,46 @@
+package com.arun.collection;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Set;
+
+public class MapPrac {
+
+	public static void main(String[] args) {
+		
+		HashMap<Integer, String> map = new HashMap<Integer, String>();
+		
+		map.put(1, "java");
+		map.put(2, "spring");
+		map.put(3, "springboot");
+		map.put(4, "hibernate");
+		
+		System.out.println(map);
+		
+		//CHNAGE MAP TO SET
+		System.out.println(map.entrySet());
+		
+		Set s = map.entrySet();
+		Iterator i = s.iterator();
+		while(i.hasNext()) {
+			System.out.println(i.next());
+		}
+		
+		//KEYSET - GET ONLY KEY VALUES
+		System.out.println(map.keySet());
+		
+		//VALUE - GET ONLY VALUES
+		System.out.println(map.values());
+		
+		
+		//CONTAINS KEY - THAT KEY IS CONTAINS OR NOT IT  WILL CHECK
+		System.out.println(map.containsKey(5));
+		
+		//CONTAINS VALUE - VALUE IS CONTAINS OR NOT IT WILL CHECK
+		System.out.println(map.containsValue("java"));
+		
+		//GET - get key against values othewise value against key
+		System.out.println(map.get(1));
+		
+	}
+}

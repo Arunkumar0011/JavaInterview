@@ -1,0 +1,31 @@
+package com.arun.collection;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
+
+public class FailFastAndFailSafe {
+	
+	public static void main(String[] args) {
+		
+		Map<Integer, String> map = new HashMap<Integer, String>();
+		map.put(1, "Arun");
+		map.put(2, "Kumar");
+		
+		Set s = map.entrySet();
+		Iterator i = s.iterator();
+		
+		while(i.hasNext()) {
+			
+			Map.Entry<Integer, String> e = (Map.Entry<Integer, String>) (i.next());
+			
+			System.out.println("Key Value ::: " + e.getKey());
+			System.out.println("Valeu :::" +e.getValue());
+			map.put(3, "AK"); //ConcurrentModificationException - This called fast fail  
+		}
+		
+		
+	}
+
+}

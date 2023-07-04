@@ -1,0 +1,27 @@
+package com.arun.collection;
+
+import java.util.ArrayList;
+
+public class ArrayListPra {
+	
+	
+	public static void main(String [] args) {
+		
+		ArrayList<String> list1 = new ArrayList<String>();
+		
+		ArrayList<String> list2 = new ArrayList<String>();
+		
+		list1.add("arun");
+		list1.add("kumar");
+		list1.add("ak");
+		
+		list2.addAll(list1);
+		
+		System.out.println(list1);
+		
+		System.out.println(list2);
+		
+	}
+	
+	
+}

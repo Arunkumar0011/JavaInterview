@@ -1,0 +1,6 @@
+
+
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(×Ñí$8Ö¼¥ñŠ1HĞRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±ŸÓûÿÿÿÿ8ÍŞ¦ñŠ1HÑRMAJORZ
+CODE_SMELL

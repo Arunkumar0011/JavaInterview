@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±¡òÙûÿÿÿÿ8ö‡ç¨‹1Hô8RMAJORZ
+CODE_SMELL
+w
+java:S1612"?Replace this lambda with method reference 'Collection::stream'.(œ†è›üÿÿÿÿ8²Ûğ¨‹1Hõ8RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(»œ‰û8å–ô¨‹1H÷8RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ºÒøûÿÿÿÿ8‹—½¨‹1Hø8RMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(º–ç“ûÿÿÿÿ8½÷»êŽ1Hô3RMAJORZ
+CODE_SMELL
+‘
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(£²Ý¯ûÿÿÿÿ8Ô¹÷êŽ1H÷3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–ˆÐ»ýÿÿÿÿ8ÿÇåêŽ1Hõ3RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(¶š›³8ä¹©âŽ1Hö3RMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(ß˜¡›8Ô¹÷êŽ1Hó3RMAJORZ
+CODE_SMELL
+—
+java:S11492"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æÉ–ýüÿÿÿÿ8Ô¹÷êŽ1Hò3RMAJORZ
+CODE_SMELL

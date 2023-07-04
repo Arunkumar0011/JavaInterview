@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(å»Ôõøÿÿÿÿ8Û¶ÓÈß0H¤7RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×³¼Ÿ8Û¶ÓÈß0H¥7RMAJORZ
+CODE_SMELL
+X
+java:S2129" Remove this "String" constructor(Œ¾£¨ýÿÿÿÿ8—­ÏÈß0H¦7RMAJORZ
+CODE_SMELL
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÂÊ‡ùÿÿÿÿ8—­ÏÈß0H§7RMAJORZBUG

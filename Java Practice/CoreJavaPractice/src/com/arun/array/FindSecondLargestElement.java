@@ -1,0 +1,46 @@
+package com.arun.array;
+
+import java.util.Arrays;
+import java.util.Comparator;
+
+public class FindSecondLargestElement {
+	
+	public static void main(String[] args) {
+		
+		int [] array = {1,10,8,4};
+		
+		int len = array.length;
+		if(len < 2) {
+			System.out.println("Invalid Inputs");
+			System.exit(0);
+		}
+		
+		Arrays.sort(array);
+		
+		System.out.println("Second Largest Element ::: " + array[array.length - 2]);
+		
+		System.out.println("Largest Value in the Array ::: "+ array[array.length -1]);
+		
+		System.out.println("Smallest Value in the Array ::: "+array[0]);
+		
+		
+		//JAVA 8
+		
+		 Integer secHigValue = Arrays.stream(array)  //Array  value send the stream obj
+		 		.boxed()                             // int to Integer objected boxed
+				.sorted(Comparator.reverseOrder())   // Ifuse sorted() default order ASC return if use Comparator.reverseOrder() It will return DES oder
+				.skip(1)							 //Skip(1) using skip the  first value
+				.findFirst()                         //Find the first value
+				.get();                              //Get and return the value	
+		
+		System.out.println(secHigValue);
+		
+		
+		
+		
+		
+		
+		
+	} 
+
+}

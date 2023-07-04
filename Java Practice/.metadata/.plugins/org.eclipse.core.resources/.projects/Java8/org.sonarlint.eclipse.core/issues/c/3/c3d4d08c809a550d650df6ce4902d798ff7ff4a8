@@ -1,0 +1,18 @@
+
+w
+java:S3358"DExtract this nested ternary operation into an independent statement.(¹¡î8½†¸‘1HÌ8RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯8ÇÂÿ·‘1HÍ8RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›ÆÚÿÿÿÿÿ8üË„¸‘1HÏ8RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(ÓÎ8ËôŠ¸‘1HĞ8RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥²˜Å8ıÍ¯¸‘1HÑ8RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¨©øÿÿÿÿ8ÇÂÿ·‘1HÒ8RMINORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(ˆ°¼ş8®€§¸‘1HÔ8RMAJORZ
+CODE_SMELL

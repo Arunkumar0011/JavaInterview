@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8ûÿˆŒ‰1Hã7RMAJORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Ÿ±ˆŒ‰1Hä7RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8ˆıê‹‰1Hæ7RMAJORZ
+CODE_SMELL
+|
+java:S3358"DExtract this nested ternary operation into an independent statement.(ß¹±úÿÿÿÿ8Ÿ±ˆŒ‰1Hç7RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›‰ñùÿÿÿÿ8ˆıê‹‰1Hè7RMINORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤øÚ²8××µÒ‰1Hñ2RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŒáéÚùÿÿÿÿ8å¡Ü×‰1Hó2RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÕÒÊýÿÿÿÿ8¿ïÞ×‰1Hô2RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ûÊ†ã8å¡Ü×‰1Hõ2RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ç–Ñú8å¡Ü×‰1Hö2RMAJORZ
+CODE_SMELL

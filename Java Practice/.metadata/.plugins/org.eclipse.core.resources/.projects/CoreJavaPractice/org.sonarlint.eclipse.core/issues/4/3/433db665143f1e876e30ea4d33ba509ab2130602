@@ -1,0 +1,13 @@
+
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ğÅˆ1Hğ4RMAJORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒó†Á8šƒÑˆ1Hñ4RMAJORZ
+CODE_SMELL
+‘
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¡Ûöıÿÿÿÿ8ì‚Ÿˆ1Hí4RMINORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8šƒÑˆ1Hâ4RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÇêÃÄ8ÜÃÀˆ1Hï4RMAJORZ
+CODE_SMELL

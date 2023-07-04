@@ -1,0 +1,86 @@
+package com.arun.collection;
+
+import java.util.ArrayList;
+
+public class ArrayListPra {
+	
+	
+	public static void main(String [] args) {
+		
+		ArrayList<String> list1 = new ArrayList<String>();
+		
+		ArrayList<String> list2 = new ArrayList<String>();
+		
+		list1.add("arun");
+		list1.add("kumar");
+		list1.add("ak");
+		
+		//ONE LIST AND ANOTHER LIST SET THE VALUES
+		//list2.addAll(list1);
+		System.out.println(list1);
+		System.out.println(list2);
+		
+		
+		//CONTAINS OR NOT CHECK
+		System.out.println(list1.contains("arun1")); //false
+		
+		
+		//CONTAINS ALL (one list another list contains  or not check)
+		System.out.println(list1.containsAll(list2)); //true
+		
+		
+		//GET - Retrun the index value
+		System.out.println(list1.get(0));
+		
+		
+		//INDEXOF (Value will going  to check if there it will return that index value other wise it will return -1 as a return type)
+		System.out.println(list1.indexOf("arun1"));
+		
+		
+		//REMOVE (Remove teh value from the list)
+		// 1. If you give the index value remove and return the object and remove the value from the list 
+		// 2. If you give the value it will return the boolean and remove the value from the list
+		System.out.println(list1.remove(0));
+		System.out.println(list1.remove("kumar"));
+		System.out.println(list1);
+		
+		//RETAINALL - It's check in list1 values is there in or not it will check whatever matched in list1 values in list2 that values
+	    //            alone it will return in list2.
+		list2.retainAll(list1);
+		System.out.println(list2);
+		
+		//SET - set the value in the specific position (Override the existing one we are not able to set new one)
+		System.out.println("SET");
+		System.out.println(list1);
+		list1.add("James");
+		System.out.println(list1.set(0, "007"));
+		System.out.println(list1);
+		
+		//SIZE - It's return the size of the list
+		System.out.println(list1.size());
+		
+		list1.add("arun");
+		
+		//SUBLIST - we are able take from to To values in the list First index inclusive and last index exclusive
+		System.out.println(list1.subList(0, 2)); 
+		System.out.println(list1);
+		
+		
+		//CURSOR - ITERATION
+		
+		ArrayList<String> list3 = new ArrayList<String>();
+		list3.add("arun");
+		list3.add("kumar");
+		list3.add("ak");
+		
+		System.out.println(list3);
+		
+		//1.  USING FOR EACH LOOP
+		
+		for(Object obj : list3) {
+			System.out.println(obj);
+		}
+	}
+	
+	
+}

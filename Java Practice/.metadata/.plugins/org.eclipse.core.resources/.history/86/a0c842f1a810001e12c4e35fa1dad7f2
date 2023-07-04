@@ -1,0 +1,23 @@
+package com.arun.array;
+
+import java.util.Arrays;
+
+public class ConvertArrayToArrayList {
+	
+	public static void main(String[] args) {
+		
+		String[] name = {"Arun", "Kumar", "Ram"};
+        
+		//Array to ArrayList conversion
+		
+		//1. Arrays.asList method
+		System.out.println(Arrays.asList(name));
+	
+	
+	
+	
+	}
+	
+	
+
+}

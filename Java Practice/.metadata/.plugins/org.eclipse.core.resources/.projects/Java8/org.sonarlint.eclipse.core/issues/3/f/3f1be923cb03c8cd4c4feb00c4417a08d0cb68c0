@@ -1,0 +1,18 @@
+
+ƒ
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ıÏÈ÷ıÿÿÿÿ8½ş»¶‰1Hê2RCRITICALZ
+CODE_SMELL
+s
+java:S1612	";Replace this lambda with method reference 'String::length'.(èÊĞ®ÿÿÿÿÿ8üğµ¶‰1Hë2RMINORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦¾ì­ûÿÿÿÿ8üğµ¶‰1Hí2RMAJORZ
+CODE_SMELL
+“
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(èÊĞ®ÿÿÿÿÿ8üğµ¶‰1Hî2RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÈ¤ıÿÿÿÿ8¥‹½¶‰1Hï2RMAJORZ
+CODE_SMELL
+“
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ıÏÈ÷ıÿÿÿÿ8½ş»¶‰1Hğ2RMINORZ
+CODE_SMELL

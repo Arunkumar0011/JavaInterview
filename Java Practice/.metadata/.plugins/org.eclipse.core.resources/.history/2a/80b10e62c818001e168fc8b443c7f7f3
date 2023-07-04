@@ -1,0 +1,14 @@
+package com.arun.array;
+
+public class FindStartsWithOne {
+	
+	public static void main(String[] args) {
+		
+		int [] num  = {1,2,11,15,22,56,90};
+		
+		
+		
+		
+	}
+
+}

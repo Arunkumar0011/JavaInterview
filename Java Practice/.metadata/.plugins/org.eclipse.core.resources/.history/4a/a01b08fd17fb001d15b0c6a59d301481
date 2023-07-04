@@ -1,0 +1,11 @@
+package com.java8.lambdaexpression;
+
+@FunctionalInterface
+public interface FunctionalInterfaceExamble {
+	
+	    //Only one public abstract method if we declared or not. It will take by default abstract method.
+		public abstract void add();
+		
+		default void addtwo() {
+		}
+}

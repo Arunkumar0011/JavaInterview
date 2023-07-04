@@ -1,0 +1,32 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(ªøä¯ûÿÿÿÿHÅ2RMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(˜åÂ˜HÆ2RMAJORZ
+CODE_SMELL
+`
+java:S3740."/Provide the parametrized type for this generic.(ÀÊ˜ûÿÿÿÿÿHÇ2RMAJORZ
+CODE_SMELL
+`
+java:S37400"/Provide the parametrized type for this generic.(³“ÏâøÿÿÿÿHÈ2RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÖÑŠHÉ2RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„©–ÞþÿÿÿÿHÊ2RMAJORZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(™¢˜ãHË2RMAJORZ
+CODE_SMELL
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(‘ÐÎ“HÌ2RMAJORZ
+CODE_SMELL
+c	java:S1066"9Replace this use of System.out or System.err by a logger.(ðŽë.HÍ2RMAJORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿHÎ2RMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯HÐ2RMINORZ
+CODE_SMELL
+Š
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÕâçþÿÿÿÿHÒ2RMINORZ
+CODE_SMELL

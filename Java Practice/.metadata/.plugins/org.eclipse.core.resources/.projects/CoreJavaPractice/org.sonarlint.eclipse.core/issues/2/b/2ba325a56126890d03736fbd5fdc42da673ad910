@@ -1,0 +1,13 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ‰ÈÓüÿÿÿÿ8ŒÌÎÑù0H• RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îœï“ıÿÿÿÿ8ÜŸÈÑù0H— RMAJORZ
+CODE_SMELL
+©
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ĞÑ€æ1H› RMINORZ
+CODE_SMELL
+x
+java:S2133"ERemove this object instantiation and use "ObjectClass.class" instead.(º‹‡8ĞÑ€æ1H RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(º»û•úÿÿÿÿ8ĞÑ€æ1H RMAJORZ
+CODE_SMELL

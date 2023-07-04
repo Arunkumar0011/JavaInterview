@@ -1,0 +1,21 @@
+package com.arun.array;
+
+import java.util.Arrays;
+
+public class PrintTheArray {
+
+	public static void main(String[] args) {
+		
+		int num[] = {1,2,3,4,5};
+		
+		System.out.println(num);
+		System.out.println(Arrays.toString(num));
+
+		int [] [] Array2D =  {{1,2,3,4} , {1,2,3,4}};
+		
+		System.out.println(Array2D);
+		System.out.println(Arrays.toString(Array2D));
+		System.out.println(Arrays.deepToString(Array2D));
+		
+	}
+}

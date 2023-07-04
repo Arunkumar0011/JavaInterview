@@ -1,0 +1,20 @@
+
+V
+java:S1197"*Move the array designators [] to the type.(†ªﬁìH—&RMINORZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(œ…ﬁËH‘&RMINORZ
+CODE_SMELL
+[
+java:S1128"/Remove this unused import 'java.util.Iterator'.(•ÕÚ’H◊&RMINORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(Êö¨ÁHŸ&RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(·–›ÓH⁄&RMAJORZ
+CODE_SMELL
+Ö
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ù„˛H€&RMINORZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(åíô€H›&RMINORZ
+CODE_SMELL

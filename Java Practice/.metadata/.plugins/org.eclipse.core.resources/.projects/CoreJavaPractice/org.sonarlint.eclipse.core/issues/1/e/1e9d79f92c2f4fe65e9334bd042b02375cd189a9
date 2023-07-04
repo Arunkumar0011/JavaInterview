@@ -1,0 +1,9 @@
+
+i
+java:S1854"6Remove this useless assignment to local variable "no".(ù°ÄÞ8¤¿ª·þ0Hµ$RMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "no" local variable.(ù°ÄÞ8¤¿ª·þ0H¶$RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ææ Ï8çèœ·þ0H¸$RMAJORZ
+CODE_SMELL

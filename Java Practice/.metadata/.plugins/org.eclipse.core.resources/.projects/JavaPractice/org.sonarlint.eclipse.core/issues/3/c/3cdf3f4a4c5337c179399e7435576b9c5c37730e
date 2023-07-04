@@ -1,0 +1,14 @@
+
+f
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÂÊ‡ùÿÿÿÿH»
+RMAJORZBUG
+Q
+java:S2129" Remove this "String" constructor(Œ¾£¨ıÿÿÿÿH¸
+RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(å»ÔõøÿÿÿÿH¹
+RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(×³¼ŸHº
+RMAJORZ
+CODE_SMELL

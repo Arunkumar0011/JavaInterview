@@ -1,0 +1,16 @@
+package com.arun.collection;
+
+import java.util.ArrayList;
+
+public class CustomeArrayNotAllowDuplicate extends ArrayList {
+	
+	@Override
+	public boolean add(Object e) {
+		if(this.contains(e)) {
+			return true;
+		} else {
+		return super.add(e);
+		}
+	}
+
+}

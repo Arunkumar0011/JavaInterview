@@ -1,0 +1,42 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”ë¥ðûÿÿÿÿ8ë Ó¥‰1H÷2RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(áåªØûÿÿÿÿ8øÍ†¦‰1Hø2RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¦ø¬‰8ª§‰¦‰1Hù2RMAJORZ
+CODE_SMELL
+ˆ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ¬¨±ùÿÿÿÿ8Û´±´‰1Hú2RMINORZ
+CODE_SMELL
+x
+java:S1612"@Replace this lambda with method reference 'Collection::isEmpty'.(áåªØûÿÿÿÿ8øÍ†¦‰1Hû2RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ðëüæúÿÿÿÿ8øÍ†¦‰1Hý2RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(À×•æùÿÿÿÿ8«ø¡¦‰1Hþ2RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(ü“ÿþÿÿÿÿ8øÍ†¦‰1Hÿ2RMAJORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‹Àž8ŠüØ¥‰1H€3RMINORZ
+CODE_SMELL
+u
+java:S1854!"=Remove this useless assignment to local variable "preStrArr".(ïŒ³‚þÿÿÿÿ8«ø¡¦‰1H3RMAJORZ
+CODE_SMELL
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(®™äÍüÿÿÿÿ8üÏÈ¥‰1H‚3RMINORZ
+CODE_SMELL
+f
+java:S1481!".Remove this unused "preStrArr" local variable.(ïŒ³‚þÿÿÿÿ8«ø¡¦‰1Hƒ3RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(õ±àÁ8ÝÿÙ¥‰1H…3RMAJORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(Ã¢öËýÿÿÿÿ8Ð£²´‰1H†3RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8«ø¡¦‰1H‡3RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÝŠ…±8ÝÿÙ¥‰1H‰3RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®™äÍüÿÿÿÿ8üÏÈ¥‰1HŠ3RMINORZ
+CODE_SMELL

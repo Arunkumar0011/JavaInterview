@@ -1,0 +1,17 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±ßÊ„üÿÿÿÿ8çşÓø1H¬7RMAJORZ
+CODE_SMELL
+	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¹­ì‘şÿÿÿÿ8—şÜ1H­7RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¼ã¼ïùÿÿÿÿ8×¾Äø1H°7RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…ÿçÿÿÿÿÿ8æ•Êø1H±7RMAJORZ
+CODE_SMELL
+s	java:S125!"<This block of commented-out lines of code should be removed.(óàÚåüÿÿÿÿ8ªúÿö1H²7RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8×¾Äø1H³7RMINORZ
+CODE_SMELL
+]
+java:S1197	"*Move the array designators [] to the type.(Ûùªæ8ªúÿö1Hµ7RMINORZ
+CODE_SMELL

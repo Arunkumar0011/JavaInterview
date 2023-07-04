@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8›­ƒ‹1HÜ8RMAJORZ
+CODE_SMELL
+‹
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÛ8óæşŠ1Hİ8RMINORZ
+CODE_SMELL
+x
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¤…ˆúÿÿÿÿ8öÆóşŠ1Hß8RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8öÆóşŠ1Há8RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äºÍ‹ùÿÿÿÿ8óæşŠ1Hâ8RMAJORZ
+CODE_SMELL

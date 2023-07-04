@@ -1,0 +1,12 @@
+package com.arun.collection;
+
+public class FailFastAndFailSafe {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.arun.collection;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class ComparableAndComparator {
+	
+	public static void main(String[] args) {
+		
+	List<String> name = new ArrayList<String>();
+	name.add("Java");
+    name.add("Spring");
+    name.add("Hibernate");
+    
+    Collections.sort(name);
+    System.out.println(name);
+	
+
+	}
+}

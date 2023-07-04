@@ -1,0 +1,16 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(■╛С╒HФ'RMAJORZ
+CODE_SMELL
+Б	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(╛Ь┘╘∙    HХ'RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(л├╬│■    HЦ'RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(╝·│У·    HЧ'RMAJORZ
+CODE_SMELL
+[
+java:S1197	"*Move the array designators [] to the type.(√Ю▌Ж■    HШ'RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ю┘ЎА·    HЫ'RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(кл┤НHЬ'RMAJORZ
+CODE_SMELL

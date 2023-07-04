@@ -1,0 +1,22 @@
+
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ‚¼½H¤RCRITICALZ
+CODE_SMELL
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¼÷¸H¦RCRITICALZ
+CODE_SMELL
+^
+java:S1144"2Remove this unused private "privateMethod" method.(©¼÷¸H¨RMAJORZ
+CODE_SMELL
+µ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âùú¸øÿÿÿÿHªRCRITICALZ
+CODE_SMELL
+Š
+java:S1450"^Remove the "privateVariable" field and declare it as a local variable in the relevant methods.(¾©«»H¬RMINORZ
+CODE_SMELL
+†
+java:S1104"ZMake publicVariable a static final constant or non-public and provide accessors if needed.(œÁîˆH­RMINORZ
+CODE_SMELL
+_
+java:S1068"3Remove this unused "privateVariable" private field.(¾©«»H®RMAJORZ
+CODE_SMELL

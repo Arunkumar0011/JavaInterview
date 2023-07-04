@@ -1,0 +1,52 @@
+package com.arun.array;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
+
+public class FindDuplicateElement {
+	
+	public static void main(String[] args) {
+	
+	//FIND DUPLICATE ELEMENTS
+	//1. Create a two hash set and iterate the array value and set the value in set
+		
+	String [] name = {"Arun", "Kumar", "Arun" };
+
+	HashSet<String> nonduplicate = new HashSet<String>();
+	HashSet<String> duplicate = new HashSet<String>();
+	
+	for (String nameStr : name) {
+		
+		if(!nonduplicate.contains(nameStr)) {
+			nonduplicate.add(nameStr);
+		}
+		else {
+			duplicate.add(nameStr);
+		}
+		
+	}
+	
+	
+	
+	System.out.println("Duplicate Elemenet  " + nonduplicate);
+	
+	System.out.println("Non Dulicate Element  " + duplicate);
+	
+	
+	//USING JAVA 8
+	
+	List<Integer> list = Arrays.asList(12,1,1,2,3,4,5,6,7,8,4,3,2);
+	
+	Set<Integer> set = new HashSet<Integer>();
+	
+	List<Integer> listNew = list.stream().filter(x -> set.add(x)).collect(Collectors.toList());
+	System.out.println(listNew);
+	
+	
+
+	
+	}
+}

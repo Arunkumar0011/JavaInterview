@@ -1,0 +1,13 @@
+
+w
+java:S1124Ü"EReorder the modifiers to comply with the Java Language Specification.(‹Ç’•ùÿÿÿÿHí	RMINORZ
+CODE_SMELL
+[
+java:S1452ì"&Remove usage of generic wildcard type.(‹îîàúÿÿÿÿHð	RCRITICALZ
+CODE_SMELL
+m	java:S125·"<This block of commented-out lines of code should be removed.(Åœí»ùÿÿÿÿHë	RMAJORZ
+CODE_SMELL
+l	java:S125N"<This block of commented-out lines of code should be removed.(Šƒæ±üÿÿÿÿHß	RMAJORZ
+CODE_SMELL
+h	java:S125»"<This block of commented-out lines of code should be removed.(ÙÓÝÿHì	RMAJORZ
+CODE_SMELL

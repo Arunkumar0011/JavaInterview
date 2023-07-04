@@ -1,0 +1,23 @@
+
+[
+java:S3740	"/Provide the parametrized type for this generic.(¦œ’…H¹	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(½ŸÞÐHº	RMAJORZ
+CODE_SMELL
+`
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Æ—Ÿ¤H»	RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿH¼	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜH½	RMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(µˆœÑH¾	RMAJORZ
+CODE_SMELL
+`
+java:S2864""4Iterate over the "entrySet" instead of the "keySet".(Æ—Ÿ¤H¿	RMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿHÀ	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÁ	RMINORZ
+CODE_SMELL

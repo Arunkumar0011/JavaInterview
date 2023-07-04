@@ -1,0 +1,31 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¹®ñ‰H„)RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¹®ñ‰H…)RMAJORZ
+CODE_SMELL
+d	java:S1064"9Replace this use of System.out or System.err by a logger.(¹®ñ‰H†)RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÜžˆúÿÿÿÿH‡)RMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHˆ)RMAJORZ
+CODE_SMELL
+i	java:S1062"9Replace this use of System.out or System.err by a logger.(ó¨ÈšþÿÿÿÿH‰)RMAJORZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHŠ)RMAJORZ
+CODE_SMELL
+{
+java:S1192"LDefine a constant instead of duplicating this literal "Not Anagram" 5 times.(¹®ñ‰H‹)RCRITICALZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H‘)RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ó¨ÈšþÿÿÿÿH’)RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¹®ñ‰H“)RMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(ÏíõšûÿÿÿÿH”)RMAJORZ
+CODE_SMELL
+c	java:S106("9Replace this use of System.out or System.err by a logger.(©Ù÷H•)RMAJORZ
+CODE_SMELL
+d	java:S106*"9Replace this use of System.out or System.err by a logger.(¹®ñ‰H–)RMAJORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”åÕ÷ûÿÿÿÿ8¤»ğ‰1HıRMAJORZ
+CODE_SMELL
+|
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(ÿôÕŠùÿÿÿÿ8—µû‰1HşRMAJORZ
+CODE_SMELL

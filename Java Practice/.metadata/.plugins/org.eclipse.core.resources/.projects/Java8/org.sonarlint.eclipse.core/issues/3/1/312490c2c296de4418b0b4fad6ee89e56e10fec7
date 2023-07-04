@@ -1,0 +1,10 @@
+
+b
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8ùŠ‹µ€1Hß2RMINORZ
+CODE_SMELL
+`
+java:S1481	"(Remove this unused "obj" local variable.(¶Ï¨àûÿÿÿÿ8»•óŽ‰1Hâ2RMINORZ
+CODE_SMELL
+o
+java:S1854	"7Remove this useless assignment to local variable "obj".(¶Ï¨àûÿÿÿÿ8»•óŽ‰1Hä2RMAJORZ
+CODE_SMELL

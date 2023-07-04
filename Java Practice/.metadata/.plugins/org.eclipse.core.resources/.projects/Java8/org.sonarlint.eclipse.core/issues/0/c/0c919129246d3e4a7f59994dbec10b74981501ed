@@ -1,0 +1,22 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ8Œ©™µ‰1H‹3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÙß¬8á–µ‰1HŒ3RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(šéîšùÿÿÿÿ8ì’µ‰1H3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ü›•ä8ì’µ‰1H3RMAJORZ
+CODE_SMELL
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(‚İÉ¸ùÿÿÿÿ8îÙä´‰1H3RMINORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(Ëéÿ˜ùÿÿÿÿ8ë›”µ‰1H3RMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ8ÅŸµ‰1H‘3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(±šö¾8ë›”µ‰1H’3RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(œ§ºòøÿÿÿÿ8€úŠµ‰1H“3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÈšƒ8á–µ‰1H”3RMAJORZ
+CODE_SMELL

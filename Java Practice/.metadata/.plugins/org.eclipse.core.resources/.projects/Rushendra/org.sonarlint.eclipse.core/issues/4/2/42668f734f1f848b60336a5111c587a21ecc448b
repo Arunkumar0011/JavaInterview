@@ -1,0 +1,17 @@
+
+V
+java:S1197"*Move the array designators [] to the type.(ïšŸHµRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ÛêöH¸RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(×ú”ËH¹RMAJORZ
+CODE_SMELL
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿHºRMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿH¼RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¾RMINORZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.arun.collection&apos; to &apos;com.arun.collectionpra&apos;&#x0D;&#x0A;- Original project: &apos;CoreJavaPractice&apos;&#x0D;&#x0A;- Original element: &apos;CoreJavaPractice/src/com.arun.collection&apos;&#x0D;&#x0A;- Renamed element: &apos;CoreJavaPractice/src/com.arun.collectionpra&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.arun.collection&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.arun.collection" name="com.arun.collectionpra" qualified="false" references="true" stamp="1683602558978" textual="false" version="1.0"/>
+</session>

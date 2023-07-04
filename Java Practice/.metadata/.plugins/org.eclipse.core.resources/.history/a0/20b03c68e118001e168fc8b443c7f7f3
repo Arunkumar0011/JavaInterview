@@ -1,0 +1,24 @@
+package com.java8.sortinglist;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class EmployeeSorting {
+
+	public static void main(String[] args) {
+		
+		List<Employee> employee = new ArrayList<Employee>();
+		
+		employee.add(new Employee(1, "Arun", "Dev", 100000));
+		employee.add(new Employee(2, "Chandru", "Test", 90000));
+		employee.add(new Employee(4, "Babu", "Design", 60000));
+		employee.add(new Employee(3, "David", "Devops", 80000));
+		
+		System.out.println("Without Order ::: " +employee);
+		Collections.sort(employee, (a, b) -> a.getId()>b.getId()?1:a.getId()<b.getId()?-1:0);
+		System.out.println("DES Order ::: " + employee);
+	}
+	
+	
+}

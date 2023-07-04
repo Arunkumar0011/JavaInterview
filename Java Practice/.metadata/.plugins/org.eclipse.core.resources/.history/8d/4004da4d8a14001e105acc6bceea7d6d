@@ -1,0 +1,55 @@
+package com.arun.collection;
+
+import java.util.ArrayList;
+
+public class ArrayListPra {
+	
+	
+	public static void main(String [] args) {
+		
+		ArrayList<String> list1 = new ArrayList<String>();
+		
+		ArrayList<String> list2 = new ArrayList<String>();
+		
+		list1.add("arun");
+		list1.add("kumar");
+		list1.add("ak");
+		
+		//ONE LIST AND ANOTHER LIST SET THE VALUES
+		list2.addAll(list1);
+		System.out.println(list1);
+		System.out.println(list2);
+		
+		
+		//CONTAINS OR NOT CHECK
+		System.out.println(list2.contains("arun1")); //false
+		
+		
+		//CONTAINS ALL (one list another list contains  or not check)
+		System.out.println(list2.containsAll(list2)); //true
+		
+		
+		//GET - Retrun the index value
+		System.out.println(list2.get(0));
+		
+		
+		//INDEXOF (Value will going  to check if there it will return that index value other wise it will return -1 as a return type)
+		System.out.println(list1.indexOf("arun1"));
+		
+		
+		//REMOVE (Remove teh value from the list)
+		// 1. If you give the index value remove and return the object and remove the value from the list 
+		// 2. If you give the value it will return the boolean and remove the value from the list
+		System.out.println(list1.remove(0));
+		System.out.println(list1.remove("kumar"));
+		System.out.println(list1);
+		
+		
+		System.out.println(list1.retainAll(list2));
+		 
+		
+		
+	}
+	
+	
+}

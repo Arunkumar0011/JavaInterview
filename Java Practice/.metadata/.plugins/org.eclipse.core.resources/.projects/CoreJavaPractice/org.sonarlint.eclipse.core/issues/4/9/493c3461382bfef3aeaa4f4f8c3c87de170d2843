@@ -1,0 +1,12 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(„æ¤Hü&RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(üÊÑóHı&RMAJORZ
+CODE_SMELL
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(“Ôê¾ûÿÿÿÿHş&RMAJORZ
+CODE_SMELL
+h
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½ŸùÿÿÿÿHÿ&RMINORZ
+CODE_SMELL
+ˆ	java:S127&"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠÆÜêûÿÿÿÿH'RMAJORZ
+CODE_SMELL

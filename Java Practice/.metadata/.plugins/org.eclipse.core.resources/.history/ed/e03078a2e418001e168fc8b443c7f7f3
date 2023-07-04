@@ -1,0 +1,24 @@
+package com.java8.sortmap;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+
+public class SortingMap {
+	
+	public static void main(String[] args) {
+		
+		Map<Integer, String> map = new HashMap<Integer, String>();
+		map.put(1, "Java");
+		map.put(2, "Spring");
+		map.put(3, "Spring Boot");
+		map.put(4, "Hibernate");
+		
+		List<Entry<Integer, String>> entry = new ArrayList<Map.Entry<Integer,String>>();
+		
+		
+	}
+
+}

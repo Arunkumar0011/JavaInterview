@@ -1,0 +1,110 @@
+package com.arun.string;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import com.sun.source.tree.ArrayAccessTree;
+
+public class FindOccuranceOfEachCharacter {
+	
+	public static void main(String[] args) {
+		
+		//FIND OCCURANCE OF EACH CHARACTER
+		// 1. String value to convert the character using toCharArray method (This string class method)
+		// 2. Create the HASHMAP and using foreach loop iterate the and put the value in that map
+		// 3. If already that key contains or not we need to check for that purpose we are using CONTAINSKEY method (map method)
+		//    then for key value need to get and increment  that why we are using GET method
+		
+		String str = "arunkuamrg";
+		
+		char[] ch = str.toCharArray();
+		
+		Map<Character, Integer> map = new HashMap<Character, Integer>();
+		
+		for (char c : ch) {
+			if(map.containsKey(c)) {
+				int count = map.get(c);
+				map.put(c,count+1);
+			} else {
+				map.put(c, 1);
+			}
+		}
+		System.out.println(map);
+	
+		//PRINT MORE THAN ONE CHARACTER OCCURANCE
+		
+		Set s =  map.entrySet();
+		 
+		Iterator i = s.iterator();
+		while(i.hasNext()) {
+
+			Map.Entry ent = (Map.Entry) i.next();
+			
+			Integer in = (Integer) ent.getValue();
+			
+			if(in > 1) {
+				System.out.println("More than one time occured values ::: "+ ent.getKey());
+			} else {
+				System.out.println("Only one time occured values ::: "+ ent.getKey());
+			}
+		}
+		
+		
+		//USING JAVA 8
+		
+		Map<String, Long> streamMap = Arrays.stream(str.split("")) //Convert the 
+						.collect(
+						Collectors
+						.groupingBy(Function.identity(), Collectors.counting()));
+		
+		System.out.println(streamMap);
+		
+		//USING JAVA 8 FIND REPEATED CHARACTERS
+		
+		 List<String> repeatedElements =   Arrays.stream(str.split(""))
+								.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
+								.entrySet().stream()
+								.filter(x -> x.getValue() > 1)
+								.map(Map.Entry::getKey)
+								.collect(Collectors.toList());
+		 
+		 System.out.println(repeatedElements);
+		 
+		 
+		 //USING JAVA 8 FIND NON REPEATED CHARACTERS
+		 
+		List<String> nonRepeatChar = Arrays.stream(str.split(""))
+								.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
+								.entrySet().stream()
+								.filter(x -> x.getValue() == 1)
+								//.map(Map.Entry::getKey)
+								.map(keyValue -> keyValue.getKey())
+								.collect(Collectors.toList());
+		
+		System.out.println(nonRepeatChar);
+			
+		//FIND THE FIRST NON REPEATED CHARACTER USING JAVA 8 STREAM
+		
+		
+		Map linkedHashMap = new LinkedHashMap();
+		
+		String firstNonRepChar  = Arrays.stream(str.split(""))
+		  				 .collect(Collectors.groupingBy(Function.identity(), linkedHashMap, Collectors.counting()))
+		  				 .entrySet().stream()
+						 .filter(x -> x.getValue() == 1)
+						 .findFirst().get().getKey();
+		
+		System.out.println(firstNonRepChar);
+
+										
+	}
+}
+ 

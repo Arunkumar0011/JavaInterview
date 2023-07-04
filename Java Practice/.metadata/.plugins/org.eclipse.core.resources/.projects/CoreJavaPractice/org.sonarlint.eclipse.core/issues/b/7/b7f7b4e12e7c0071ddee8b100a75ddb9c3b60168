@@ -1,0 +1,62 @@
+
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(ïùÃ¢8â›ÎÅ1H¼/RMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(›¼ºàùÿÿÿÿ8¾–©Ô1H½/RMAJORZ
+CODE_SMELL
+a
+java:S1905]")Remove this unnecessary cast to "String".(Ğ€ Ûüÿÿÿÿ8ÄÌáÔ1H¾/RMINORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(÷ğåŸ8£˜Å1HÀ/RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‡„HÁ/RMINORZ
+CODE_SMELL
+‘
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ğ‘ùÿÿÿÿ8¸‘¹Ô1HÃ/RMINORZ
+CODE_SMELL
+s	java:S125["<This block of commented-out lines of code should be removed.(Àô½Ôıÿÿÿÿ8ü™äÔ1HÅ/RMAJORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "kumar" 3 times.(İƒ£İ8¸‘¹Ô1HÆ/RCRITICALZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(Œâ8Å£Ô1HÊ/RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(¶ãÿ¶8â›ÎÅ1HË/RMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8¢óìÓ1HÌ/RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(†å«æşÿÿÿÿ8˜±‘Ô1HÍ/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8âÂÇÅ1HÎ/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦İÌç8ª¬”Ô1HÏ/RMAJORZ
+CODE_SMELL
+s	java:S125X"<This block of commented-out lines of code should be removed.(Àô½Ôıÿÿÿÿ8ÆŠÓÔ1HĞ/RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(„Í•§8â›ÎÅ1HÑ/RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8Ã®·Å1HÒ/RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(Ñ”‚ˆ8Éƒ¼Å1HÓ/RMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8¼©«Ô1HÔ/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8£˜Å1HÕ/RMAJORZ
+CODE_SMELL
+j	java:S106_"9Replace this use of System.out or System.err by a logger.(øÎ°E8†¿Ô1HÖ/RMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(†Âª±8ÉÎÔ1H×/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(åÊæ§ÿÿÿÿÿ8¹Ì¢Ô1HØ/RMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8…é¦Å1HÙ/RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°‹˜êHÚ/RMINORZ
+CODE_SMELL
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ8¸‘¹Ô1HÜ/RMAJORZ
+CODE_SMELL
+k	java:S106R"9Replace this use of System.out or System.err by a logger.(Áªø8¸‘¹Ô1Hİ/RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¾¾ñÿÿÿÿÿ8Á»ùÓ1HŞ/RMAJORZ
+CODE_SMELL

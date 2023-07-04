@@ -1,0 +1,8 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ–€ó8µ –¾Ž1H¡0RMAJORZ
+CODE_SMELL
+‹
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(§†ÒQ8µ –¾Ž1H¢0RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(“Ôê¾ûÿÿÿÿ8çª…¾Ž1H£0RMAJORZ
+CODE_SMELL

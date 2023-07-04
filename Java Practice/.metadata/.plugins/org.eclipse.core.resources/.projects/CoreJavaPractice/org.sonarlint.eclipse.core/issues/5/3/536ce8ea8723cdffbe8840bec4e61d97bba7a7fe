@@ -1,0 +1,44 @@
+
+g
+java:S3740-"/Provide the parametrized type for this generic.(ªøä¯ûÿÿÿÿ8­¦ŞÖ1HÀ;RMAJORZ
+CODE_SMELL
+p	java:S106]"9Replace this use of System.out or System.err by a logger.(½€ûÄøÿÿÿÿ8à—¢Š1HÁ;RMAJORZ
+CODE_SMELL
+p	java:S106i"9Replace this use of System.out or System.err by a logger.(ş¡Úéÿÿÿÿÿ8ŞöŒ­‘1HÂ;RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(ÖçÌûøÿÿÿÿ8€±Ğ”‘1HÃ;RMAJORZ
+CODE_SMELL
+b
+java:S3740/"/Provide the parametrized type for this generic.(˜åÂ˜8­¦ŞÖ1HÄ;RMAJORZ
+CODE_SMELL
+b
+java:S37402"/Provide the parametrized type for this generic.(¼¤Ä 8®¦ŞÖ1HÅ;RMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(µˆœÑ8®¦ŞÖ1HÆ;RMAJORZ
+CODE_SMELL
+k	java:S106E"9Replace this use of System.out or System.err by a logger.(§×Ş 8®¦ŞÖ1HÇ;RMAJORZ
+CODE_SMELL
+k	java:S106P"9Replace this use of System.out or System.err by a logger.(½ë£ı8òõ›¬‘1HÈ;RMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(…ÒáËøÿÿÿÿ8ÜïÉ¬‘1HÉ;RMAJORZ
+CODE_SMELL
+k	java:S106w"9Replace this use of System.out or System.err by a logger.(¶£˜”8íî±¯‘1HÊ;RMAJORZ
+CODE_SMELL
+g
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8â¯‘1HË;RMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„àµØúÿÿÿÿ8à—¢Š1HÍ;RMINORZ
+CODE_SMELL
+m
+java:S1191"5Use classes from the Java API instead of Sun classes.(åñ¬Ìşÿÿÿÿ8ŞöŒ­‘1HÏ;RMAJORZ
+CODE_SMELL
+m
+java:S1612Z":Replace this lambda with method reference 'Entry::getKey'.(…Ûµ×8éœÂ¬‘1HĞ;RMINORZ
+CODE_SMELL
+r
+java:S1612u":Replace this lambda with method reference 'Entry::getKey'.(ßÎìüÿÿÿÿ8íî±¯‘1HÒ;RMINORZ
+CODE_SMELL
+x
+java:S1128"@Remove this unused import 'com.sun.source.tree.ArrayAccessTree'.(åñ¬Ìşÿÿÿÿ8â¯‘1HÔ;RMINORZ
+CODE_SMELL

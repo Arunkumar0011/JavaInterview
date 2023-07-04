@@ -1,0 +1,9 @@
+package com.java8.lambdaexpression;
+
+@FunctionalInterface
+public interface FunctionalInterfaceExamble {
+	
+		public void add();
+		
+		void addtwo();
+}

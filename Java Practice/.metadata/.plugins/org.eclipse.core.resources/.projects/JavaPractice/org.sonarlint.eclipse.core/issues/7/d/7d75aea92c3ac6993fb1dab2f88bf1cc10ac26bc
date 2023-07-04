@@ -1,0 +1,11 @@
+
+g	java:S125	"<This block of commented-out lines of code should be removed.(ŠØÔÃH¶
+RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(àÕêåşÿÿÿÿH·
+RMAJORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(´É´èøÿÿÿÿH³
+RMINORZ
+CODE_SMELL

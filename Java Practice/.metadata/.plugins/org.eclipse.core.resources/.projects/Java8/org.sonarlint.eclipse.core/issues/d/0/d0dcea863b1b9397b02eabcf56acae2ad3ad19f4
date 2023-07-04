@@ -1,0 +1,27 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(ù¦ÏŞşÿÿÿÿHí7RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(±‘·ıHî7RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(ä—‚ë8ø°ª‰1Hï7RMAJORZ
+CODE_SMELL
+w
+java:S3358("DExtract this nested ternary operation into an independent statement.(çï§Ö8ú”›‰1Hğ7RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜¥ÕÉúÿÿÿÿ8Åà¡‰1Hñ7RMAJORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8İÅƒ‰1Hò7RMINORZ
+CODE_SMELL
+|
+java:S3358"DExtract this nested ternary operation into an independent statement.(šÜûÿÿÿÿ8®®ı€‰1Hô7RMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(ù¦ÏŞşÿÿÿÿHõ7RMAJORZ
+CODE_SMELL
+`
+java:S1604"(Make this anonymous inner class a lambda(ğ±æîıÿÿÿÿ8®®ı€‰1Hö7RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(Ò‡òœÿÿÿÿÿ8òšê€‰1H÷7RMAJORZ
+CODE_SMELL
